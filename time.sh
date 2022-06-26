@@ -1,3 +1,3 @@
 #!/bin/bash
-date=$(date '+%b %d (%a) %H:%M')
+date=$(date '+%d %b (%a) %H:%M')
 printf " %s %s \\n" "$date"
