@@ -1,4 +1,3 @@
-age:
 #	price <url> <Name of currency> <icon> <Price to show in>
 #	price bat "Basic Attention Token" 🦁
 # When the name of the currency is multi-word, put it in quotes.
