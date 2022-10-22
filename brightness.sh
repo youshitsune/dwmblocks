@@ -1,4 +1,4 @@
 #!/bin/sh
-brightness=$(xbacklight -get)
+brightness=$(brightnessctl get)
 printf " %s %s \\n" "$brightness"
 
